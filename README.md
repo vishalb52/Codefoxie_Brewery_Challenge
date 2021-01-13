@@ -4,6 +4,8 @@ Console application on Brewery Code Challenge.
 
 Instructions to run Console Application(test.exe):
 
+Requirements : Vscode and MinGW-64bit.
+
   1)Download all and move all three files in one separate folder i.e. Beers.txt , test.cpp, test.exe                                                                          
 
   2)Open command prompt on your windows.                                                                                                                                        
