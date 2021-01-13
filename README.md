@@ -3,6 +3,7 @@ Console application on Brewery Code Challenge.
 
 
 Instructions to run Console Application(test.exe):
+
 1)Download all and move all three files in one separate folder i.e. Beers.txt , test.cpp, test.exe
 2)Open command prompt on your windows.
 3)Go to the file directory(cd folder)
