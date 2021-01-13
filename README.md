@@ -31,5 +31,5 @@ With minimal effort and making things less complex and effective i wrote my code
  3)Considering that with increasing time the truck's inside temperature increases and thus showing the alerts for the beers.(note: at some specific time truck is not moving).
  
  c)If given 2 months time and assistance:
- 1)I could have used Javascript to code the solution and run the alerts and messages in a web page(DARPA that can be found in my Github project category).
- 2)IOT(Internet of things) can also be used to make this project, where we could be using sensors and Web application to notify the Beer(or any) Organization and Driver(Buz).
+1)I could have used Javascript to code the solution and run the alerts and messages in a web page(DARPA that can be found in my Github project category).
+2)IOT(Internet of things) can also be used to make this project, where we could be using sensors and Web application to notify the Beer(or any) Organization and Driver(Buz).
